@@ -27,3 +27,6 @@ The train dataset used was small, yet the accuracy of the model was good. Since 
 
 ### Conclusion
 This project highlighted the usefulness of innovative deep learning architectures in enhancing music genre classification. As music streaming platforms continue to grow, the ability to accurately and efficiently categorize music will remain a critical factor in driving user satisfaction and business success. By carefully considering the unique characteristics of Mel spectrograms, we developed a CNN model that not only achieved high accuracy but also aligned closely with business needs for improved user experience, operational efficiency and customer retention. 
+
+#### Academic Project
+This was an academic project done under the ST456 course, year 2024, and I achieved the mark of **Distinction** in this project.
