@@ -2,7 +2,7 @@
 
 In today's digital music landscape, personalized content is key to engaging users and driving customer satisfaction. Various music streaming platforms rely heavily on accurate music genre classification to enhance user experience through curated playlists and personalized recommendations. Accurate genre classification thus has a significant impact on various business metrics, including content discoverability and retention rates.
 
-This project leveraged Convolutional Neural Networks (CNNs) to accurately classify music genres based on log-transformed Mel spectrograms obtained via the GTZAN dataset. CNNs, which are space-invariant, generally cannot be applied to images which contain meaningful axes; however, with a custom CNN architecture taking into account the time and freqeuncy components of the spectrograms separately, we achieved a test accuracy of 92.67% - an improvement from the 86.7% achieved by traditional CNN models - demonstrating the effectiveness of our approach. 
+This project leveraged Convolutional Neural Networks (CNNs) to accurately classify music genres based on log-transformed Mel spectrograms obtained via the GTZAN dataset. CNNs, which are space-invariant, generally cannot be applied to images which contain meaningful axes; however, with a custom CNN architecture taking into account the time and freqeuncy components of the spectrograms separately, we achieved a test accuracy of 92.66% - an improvement from the 87.37% achieved by traditional CNN models - demonstrating the effectiveness of our approach. 
 
 ### Business Relevancy 
 
